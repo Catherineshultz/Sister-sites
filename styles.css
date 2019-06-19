@@ -1,0 +1,12 @@
+h1 {
+font-family: cursive;
+border-style: double;
+font-size: 50px;
+color: Red;
+padding: 10px 20px
+
+}
+p {
+  font-size: 20px;
+  font-family: monospace;
+}
